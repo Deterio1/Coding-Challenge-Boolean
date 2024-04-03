@@ -1,0 +1,87 @@
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+#sfondotrasparente {
+    width: 1200px;
+    height: 850px;
+    margin: auto;
+    margin-top: 25px;
+    border-radius: 25px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+header {
+    text-align: center;
+}
+
+.logo {
+    height: 120px;
+    margin-top: 115px;
+    }
+
+.container {
+    width: 1000px;
+    margin: auto;
+}
+
+h1 {
+    font-family: "Mulish", sans-serif;
+    margin: 5px;
+    color: rgb(0, 221, 0);
+}
+
+.Barraprenotazioni {
+    background-color: rgb(0, 255, 0);
+    height: 50px;
+}
+
+.barretteinput {
+    padding-top: 14px;
+}
+
+.namemonopattino {
+    margin-top: 15px;
+    font-family: "Mulish", sans-serif;
+    color: white;
+    font-size: 23px;
+}
+
+.rownamestreet {
+    margin-top: 5px;
+    font-family: "Mulish", sans-serif;
+    color: white;
+    font-size: 16px;
+}
+
+.statocarica {
+    margin-top: 5px;
+    font-family: "Mulish", sans-serif;
+    color: white;
+    font-size: 16px;
+}
+
+#barraenergia1 {
+    background-color: rgb(238, 204, 15);
+    height: 30px;
+    border-radius: 25px;
+    margin-top: 5px;
+    margin-right: 625px;
+}
+
+#barraenergia2 {
+    background-color: rgb(1, 201, 1);
+    height: 30px;
+    border-radius: 25px;
+    margin-top: 5px;
+    margin-right: 450px;
+}
+
+#barraenergia3 {
+    background-color: rgb(255, 0, 0);
+    height: 30px;
+    border-radius: 25px;
+    margin-top: 5px;
+    margin-right: 750px;
+}
